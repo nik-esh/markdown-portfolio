@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+I :heart::
+* Dogs
+* Cooking
+  * Momos
+  * Traditional Nepalese Dinner
+* Reading
+* Going for a Walk
